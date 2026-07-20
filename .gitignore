@@ -1,0 +1,7 @@
+.env
+*.log
+__pycache__/
+*.py[cod]
+tracked_prices.json
+notified_orders.json
+.DS_Store
